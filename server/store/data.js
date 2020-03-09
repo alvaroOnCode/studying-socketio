@@ -1,0 +1,6 @@
+module.exports = {
+    position: {
+        x: 200,
+        y: 200
+    }
+}
